@@ -1,4 +1,4 @@
-# TouristApp
+# Touristplacesaap
 
 **Features:**
 - Beautiful UI with Animations made with Material Design Guidelines by Google.
